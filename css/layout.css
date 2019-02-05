@@ -34,3 +34,15 @@
  #grass{
   float:left;
 }
+#chart{
+  float:right;
+}
+ .col-left{
+  float:left;
+ }
+ .marginright{
+    margin-right: 19px;
+}
+ .margintop{
+  margin-top:10px
+}
